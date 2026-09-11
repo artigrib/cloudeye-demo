@@ -1,4 +1,4 @@
-# CloudEye — from a phone walkthrough to a robot-ready map
+# CloudEye: from a phone walkthrough to a robot-ready map
 
 [90-second demo](link)
 
