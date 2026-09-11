@@ -1,6 +1,6 @@
 # CloudEye: from a phone walkthrough to a robot-ready map
 
-[90-second demo](link)
+[90-second demo](https://www.linkedin.com/feed/update/urn:li:activity:7504007563198464000/)
 
 ## What it does
 Walk a room with a phone → metric point cloud → traversability map → per-robot verdict (path, tightest gap, "can't reach") → USD export into Isaac Sim.
