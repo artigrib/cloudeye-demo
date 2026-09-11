@@ -26,4 +26,4 @@ phone video (15 fps frames)
 - Semantics not yet run on 15 fps scenes
 
 ## Code
-Private while the backend has no auth. Happy to walk through it — DM.
+Private while the backend has no auth. Happy to walk through it, DM.
