@@ -1,4 +1,4 @@
-# CloudEye: from a phone walkthrough to a robot-ready map
+# CloudEye: from a phone walkthrough to a robot-ready map (Main Repo: [github.com/artigrib/cloudeye](https://github.com/artigrib/cloudeye))
 
 [90-second demo](https://www.linkedin.com/feed/update/urn:li:activity:7504007563198464000/)
 
